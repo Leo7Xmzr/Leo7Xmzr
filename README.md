@@ -1,4 +1,4 @@
-# Hi there, It's @LEO7XMZR! 👋
+# Hi there, I'm Abderrahmane AKA @LEO7XMZR! 👋
 
 I am an IT student passionate about **System Administration**, **Networking**, and **Data Science**. I bridge the gap between infrastructure management and software development.
 
